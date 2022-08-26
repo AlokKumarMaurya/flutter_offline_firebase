@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105767545696",
+    "firebase_url": "https://offline-fireba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "offline-fireba",
+    "storage_bucket": "offline-fireba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105767545696:android:475fa8affa1ca46e550c05",
+        "android_client_info": {
+          "package_name": "com.example.offline_firebase_vs_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105767545696-7el7e0dmtc9i9r4bd8tpgifbi8dh2s4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3EpozFoeqQmlgXl9LnVHczXXdzWge1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105767545696-7el7e0dmtc9i9r4bd8tpgifbi8dh2s4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
